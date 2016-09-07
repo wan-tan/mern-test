@@ -1,0 +1,19 @@
+{
+  "name": "mern-test",
+  "version": "0.0.1",
+  "description": "Practise app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wan-tan/mern-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
